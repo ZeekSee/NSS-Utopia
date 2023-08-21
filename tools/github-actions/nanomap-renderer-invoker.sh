@@ -1,4 +1,4 @@
-#chmod +x "./_maps/map_files/cyberiad/cyberiad.dmm"
+chmod +x "./_maps/map_files/cyberiad/cyberiad.dmm"
 chmod +x "./_maps/map_files/Delta/delta.dmm"
 chmod +x "./_maps/map_files/cerestation/cerestation.dmm"
 chmod +x tools/github-actions/nanomap-renderer
