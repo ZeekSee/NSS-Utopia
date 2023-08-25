@@ -626,7 +626,7 @@
 
 /obj/item/paper/barmenu
 	name = "paper- 'Меню'"
-	info = "<center><h1>Меню напитков и их рецептов</h1></center><br><b>Чёрный русский</b><br>3 Vodka<br>2 Kahlua"
+	info = "<center><h1>Меню напитков и их рецептов</h1></center><hr><br><b>Чёрный русский</b><br>3 Vodka<br>2 Kahlua<br><br><b>Коктейль союзников</b><br>1 Classic Martini<br>1 Vodka<br><br><b>Алоэ</b><br>1 Watermelon Juice<br>1 Milk Cream<br>1 Whiskey<br><br><b>Бахама Мама</b><br>2 Rum<*>2 Orange Juice<br>1 Lime Juice<br>1 Ice<br><br><b>Кровавая Мэри</b><br>1 Vodka<br>2 Tomato Juice<br>1 Lime Juice<br><br><b>Поцелуй дьявола</b><br>1 Rum<br>1 Blood<br>1 Kahlua<br><br><field><br><hr><small><i>Данное меню представленно для напитков, ингредиенты которых возможно без проблем достать в баре. Список не полностью заполнен. Дополните его вручную, использовав поле выше, для большего списка меню</small><i>"
 
 /obj/item/paper/holodeck
 	name = "paper- 'Holodeck Disclaimer'"
